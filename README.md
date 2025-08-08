@@ -45,6 +45,7 @@ We built a robust, scalable platform using cutting-edge technology:
 ### **Mobile Experience**
 - **Flutter Android App**: Intuitive, fast, and user-friendly
 - **Live Demo**: [Try our app](https://appetize.io/app/b_fuisbou5wmkluzdgj7fs66mwnm)
+  - **Demo Login**: Phone: `9078164554` | OTP: `123456`
 - **Source Code**: [GitHub Repository](https://github.com/Vookad-com/vookadapp)
 
 ### **Backend Infrastructure**
