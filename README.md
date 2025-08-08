@@ -2,6 +2,15 @@
 
 *"Connecting hearts through homemade food - one meal at a time"*
 
+## 🔗 Quick Demo Access
+
+**📱 Try Our Mobile App:**
+- **Live Demo**: [Vookad Mobile App](https://appetize.io/app/b_fuisbou5wmkluzdgj7fs66mwnm)
+- **Demo Credentials**: Phone: `9078164554` | OTP: `123456`
+
+**🖥️ Admin Dashboard:**
+- **Live Dashboard**: [Vookad Admin Panel](https://vookad-admin-git-master-wevookads.vercel.app)
+
 ## 🌟 The Story
 
 In the bustling corridors of college life, we witnessed a universal truth: students craved the comfort of home-cooked meals but were stuck with unhealthy fast food options. This sparked the birth of **Vookad** - a revolutionary quick commerce platform that bridges the gap between hungry customers and passionate home chefs.
